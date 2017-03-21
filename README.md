@@ -12,6 +12,7 @@ and start the project with
 ```bash
 npm start
 ```
+the app should automatically open to [http://localhost:3000/](http://localhost:3000/) 
 
 Since this is a fun project, below are some other things that I would like to do with it:
 - [ ] Make it mobile friendly - responsive styling
