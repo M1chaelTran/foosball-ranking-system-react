@@ -1,0 +1,12 @@
+@media screen and (max-width: 1024px) {
+  .content {
+    padding: 0 16px;
+  }
+
+  .wins_ranking {
+    display: flex;
+    align-items: baseline;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+}

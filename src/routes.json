@@ -1,0 +1,32 @@
+[
+  {
+    "path": "/",
+    "page": "./leaderboard",
+    "chunk": "main"
+  },
+  {
+    "path": "/error",
+    "page": "./error",
+    "chunk": "main"
+  },
+  {
+    "path": "/leaderboard",
+    "page": "./leaderboard"
+  },
+  {
+    "path": "/games",
+    "page": "./games"
+  },
+  {
+    "path": "/matches/add",
+    "page": "./match"
+  },
+  {
+    "path": "/stats/:name",
+    "page": "./stats"
+  },
+  {
+    "path": "/stats",
+    "page": "./stats"
+  }
+]
